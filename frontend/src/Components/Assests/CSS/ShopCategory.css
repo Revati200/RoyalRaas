@@ -1,0 +1,14 @@
+.shopcategory-products{
+    margin: 20px 170px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    row-gap: 80px;
+    align-items: center;
+    gap: 20px;
+
+}
+.shopcategory-products img{
+    max-width: 90%;
+    max-height: 90%;
+   
+}

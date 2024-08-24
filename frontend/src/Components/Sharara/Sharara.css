@@ -1,0 +1,23 @@
+.sharara{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    height: 90vh;
+    margin-bottom: 100px;
+   margin-top: 700px;
+}
+.sharara h1{
+    color: #171717;
+    margin-top: 500px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.sharara hr{
+    width: 200px;
+    height: 6px;
+    border-radius: 10px;
+    background: #252525;
+    margin-top: 500px;
+
+}
